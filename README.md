@@ -1,19 +1,18 @@
-# portfolio
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Powerbi, Excel, Html, Css
+#### Technical Skills: Python, SQL, Powerbi, Excel, Html, CSS
 
 ## Education             		
 - B.Tech., Medical Physiology | Ladoke Akintola University of Technology (_May 2022_)
 
 ## Work Experience
 **Data Scientist and Analyst @ Computer College Plus (_August 2024 - Present_)**
-- Teaching students the basic and foundamental of becoming a Data analyst and Scientist.
-- Helping the Company montly analysis in the student satifactory level on our teaching roadmaps. 
+- Teach students the basics of becoming a data analyst and scientist.
+- Helping the Company with monthly analysis of the student satisfaction level on our teaching roadmaps. 
 
 **Operational Manager @ Computer College Plus (_November 2024 - Present_)**
 - Conducted data collection, processing, and analysis for the next Cohort.
-- Providing services, Research skills and smooth run of the company.
+- Providing services, Research skills, and smooth run of the company.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
