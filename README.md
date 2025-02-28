@@ -4,6 +4,11 @@
 
 ## Education             		
 - B.Tech., Medical Physiology | Ladoke Akintola University of Technology (_May 2022_)
+- SQI, Frontend (_May 2023_)
+- Utiva, American Council of Training and Development Diploma in Data Analysis (_Octber 2024_)
+- CoderHq, Data Science (-December  2024_)
+
+
 
 ## Work Experience
 **Data Scientist and Analyst @ Computer College Plus (_August 2024 - Present_)**
