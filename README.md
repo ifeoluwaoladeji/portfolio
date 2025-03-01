@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Powerbi, Excel, Html, CSS
+#### Technical Skills: Python, SQL, Powerbi, Excel, HTML, CSS
 
 ## Education             		
 - B.Tech., Medical Physiology | Ladoke Akintola University of Technology (_May 2022_)
 - SQI, Frontend (_May 2023_)
-- Utiva, American Council of Training and Development Diploma in Data Analysis (_Octber 2024_)
+- Utiva, American Council of Training and Development Diploma in Data Analysis (_October 2024_)
 - CoderHq, Data Science (-December  2024_)
 
 
@@ -17,7 +17,7 @@
 
 **Operational Manager @ Computer College Plus (_November 2024 - Present_)**
 - Conducted data collection, processing, and analysis for the next Cohort.
-- Providing services, Research skills, and smooth run of the company.
+- Provide services, research skills, and a smooth company run.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -35,6 +35,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 531
+- Introduction to Data analysis : The Computer college plus  - Data Seminar, 2024
+- Guest Lecture: Using Data in Religion Center - How to use data in the Religion center to get insights for growth and development.
