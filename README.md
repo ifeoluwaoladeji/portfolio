@@ -20,20 +20,20 @@
 - Provide services, research skills, and a smooth company run.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Creating a Hospital Database using MySQL
+Let's explore the intricacies of an Entity-Relationship (ER) diagram for a hospital database. This diagram is a visual representation of the data model, showcasing how different entities within the hospital environment interact with one another. Understanding this will give profound insights into data flow and management in a healthcare setting.
+My Final Thoughts:
+Understanding the ER diagram of a hospital database isn't just about technical comprehension—it's about appreciating the intricate dance of data that supports patient care and hospital operations. This framework ensures that every piece of information is accessible, accurate, and interconnected, ultimately enhancing the health outcomes of patients.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![ER Diagram](/New folder/img/WhatsApp Image 2024-11-28 at 08.57.49_3c7d30f0.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Breast Cancer Prediction using Machine Learning
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** to analyze the breast cancer data set I got from Kaggle (Breast Cancer Wisconsin Diagnostic Data set) I first understand my dataset after i did the data processing, Encoding the Target Variable, Splitting Data into Training and Testing Sets, Feature Scaling, Exploratory Data Analysis (EDA), Training Model, Prediction System and Save Model
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Introduction to Data analysis : The Computer college plus  - Data Seminar, 2024
+- Introduction to Data Analysis: The Computer College Plus  - Data Seminar, 2024
 - Guest Lecture: Using Data in Religion Center - How to use data in the Religion center to get insights for growth and development.
