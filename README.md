@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Powerbi, Excel, HTML, CSS
+#### Technical Skills: Python, SQL, PowerBI, Excel, HTML, CSS
 
 ## Education             		
 - B.Tech., Medical Physiology | Ladoke Akintola University of Technology (_May 2022_)
@@ -26,13 +26,13 @@ My Final Thoughts:
 Understanding the ER diagram of a hospital database isn't just about technical comprehension—it's about appreciating the intricate dance of data that supports patient care and hospital operations. This framework ensures that every piece of information is accessible, accurate, and interconnected, ultimately enhancing the health outcomes of patients.
 
 
-![ER Diagram](/New folder/img/WhatsApp Image 2024-11-28 at 08.57.49_3c7d30f0.jpg)
+![ER Diagram](/New folder/WhatsApp Image 2024-11-28 at 08.57.49_3c7d30f0.jpg)
 
 ### Breast Cancer Prediction using Machine Learning
 
 Used **Python** to analyze the breast cancer data set I got from Kaggle (Breast Cancer Wisconsin Diagnostic Data set) I first understand my dataset after i did the data processing, Encoding the Target Variable, Splitting Data into Training and Testing Sets, Feature Scaling, Exploratory Data Analysis (EDA), Training Model, Prediction System and Save Model
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Breast Cancer Study](/New folder/Kaggle_ Your Home for Data Science - Kaggle_ Your Machine Learning and Data Science Community 3_1_2025 3_17_34 PM.png)
 
 ## Talks & Lectures
 - Introduction to Data Analysis: The Computer College Plus  - Data Seminar, 2024
