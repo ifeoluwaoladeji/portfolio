@@ -32,7 +32,7 @@ Understanding the ER diagram of a hospital database isn't just about technical c
 
 Used **Python** to analyze the breast cancer data set I got from Kaggle (Breast Cancer Wisconsin Diagnostic Data set) I first understand my dataset after i did the data processing, Encoding the Target Variable, Splitting Data into Training and Testing Sets, Feature Scaling, Exploratory Data Analysis (EDA), Training Model, Prediction System and Save Model
 
-![Breast Cancer Study](/New folder/Kaggle_ Your Home for Data Science - Kaggle_ Your Machine Learning and Data Science Community 3_1_2025 3_17_34 PM.png)
+![Breast Cancer Study](New folder/Kaggle_ Your Home for Data Science - Kaggle_ Your Machine Learning and Data Science Community 3_1_2025 3_17_34 PM.PNG)
 
 ## Talks & Lectures
 - Introduction to Data Analysis: The Computer College Plus  - Data Seminar, 2024
